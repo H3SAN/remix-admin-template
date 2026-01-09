@@ -2,7 +2,7 @@
 
 **View demo:** [https://remix-admin-template.netlify.app/](https://remix-admin-template.netlify.app/)
 
-The Remix Supabase starter demonstrates how to integrate **Supabase** into an Remix project deployed on Netlify.
+The Remix Supabase starter demonstrates how to integrate **Supabase** into an Remix project deployed on Netlify. Iaaa
 
 ## Deploying to Netlify
 
